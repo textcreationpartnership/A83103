@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for mitigation of the excise upon strong-water.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83103</idno><idno type="EEBO-CITATION">45789292</idno>
+  <idno type="VID">172603</idno>
+  <idno type="EEBO-PROQUEST">2240897838</idno>
+  
+            <idno type="STC">Wing E1897A</idno>
+            <idno type="STC">ESTC R175190</idno>
+            <idno type="OCLC">45789292</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83103)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172603)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2640:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for mitigation of the excise upon strong-water.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>By R. Cotes and J. Raworth,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Die Jovis. 26 Septemb. 1644."</note>
+                  <note>Reproduction of original in: Birmingham Central Reference Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Liquors --  Taxation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172603:1"/>
+            <pb facs="tcp:172603:1"/>
+            <p>AN ORDINANCE OF THE LORDS and COMMONS ass<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbled in PARLIAMENT FOR Mitigation of the Excise upon Strong-water.</p>
+            <p>
+               <hi>Die Jovis, 26 Septemb.</hi> 1644.</p>
+            <figure>
+               <figDesc>woodcut of three flowers</figDesc>
+               <p>HEB DDIEV HEB DDIM</p>
+            </figure>
+            <p>Printed at <hi>London,</hi> by <hi>R. Cotes,</hi> and <hi>J. Raworth.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:172603:2"/>
+            <pb facs="tcp:172603:2"/>
+            <head>AN ORDINANCE OF THE LORDS and COMMONS assembled in PARLIAMEMT FOR Mitigation of the Excise upon Strong-water.</head>
+            <opener>
+               <dateline>
+                  <date>Die Jovis, 26 Septemb. 1644.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by Ordinance of Parlia<g ref="char:EOLhyphen"/>ment, dated the eleventh of <hi>Sep<g ref="char:EOLhyphen"/>tember, Anno</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>643. there is eight pence upon every Gallon laid by way of Excise upon all Strong-waters,
+<pb facs="tcp:172603:3"/> and <hi>Aqua vitae,</hi> imported, or to be imported, or made or distilled within the Realme of <hi>England,</hi> Dominion of <hi>Wales,</hi> or Towne of <hi>Berwicke,</hi> to be paid by the first buyer, or maker, or distiller respectively, which summe of eight pence upon the G<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llon, being rai<g ref="char:EOLhyphen"/>sed upon the Strong waters, and <hi>Aqua vitae,</hi> made within the Kingdome, is found to have something intermitted Trade in that Commodity within the Kingdome. And forasmuch as by the said Ordinance of the eleventh of <hi>September,</hi> 1643▪ there was no provision made for the levying of Excise upon all Spirits imported, whereby the true intent of the said Ordinance might be avoi<g ref="char:EOLhyphen"/>ded. Be it ordained by the Lords and Com<g ref="char:EOLhyphen"/>mons assembled in Parliament, and by Au<g ref="char:EOLhyphen"/>thority of the same, for the incouragement of the maker and Distiller of Strong waters▪ and for the better receipt of the Excise up<g ref="char:EOLhyphen"/>on this commodity, that all <hi>Aqua vitae,</hi> or strong waters made in the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> Dominion of <hi>Wales,</hi> or Towne or Port
+<pb n="3" facs="tcp:172603:3"/> of <hi>Berwicke,</hi> do pay two pence upon every Gallon by way o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Excise, and so after that rate, for a greater or lesser quantity, to be paid by the first maker thereof.</p>
+            <p>That all Spirits made of French or Spanish Wines, commonly called Brand-VVine, Im<g ref="char:EOLhyphen"/>ported, do pay two pence upon every Gallon Excise, and so after that rate for a greater or lesser quantity to bee paid by the first buyer, from the said Importer. That all strong wa<g ref="char:EOLhyphen"/>ters perfectly made whatsoever, imported from beyond the Seas, shall pay eight pence upon every Gallon Excise, to bee paid by the first buyer, from the said importer.</p>
+            <p>That for such forain Spirits as aforesaid, as any distiller shall use and make into perfect Strong waters, that such maker or distiller shall pay onely one penny upon every Gallon more, it first appearing unto the Commissi<g ref="char:EOLhyphen"/>oners of Excise, or their deputies, in the seve<g ref="char:EOLhyphen"/>all offices respectively by sufficient testimony, that the two pence aforesaid was duly paid at▪ the first sale thereof as Spirits.</p>
+            <pb n="4" facs="tcp:172603:4"/>
+            <p>That for all <hi>Aqua vitae,</hi> or Strong waters, made in the Kingdome, which shall be a<g ref="char:EOLhyphen"/>gain exported for any parts beyond the Seas, or out of the Realm of <hi>England,</hi> &amp;c whether into plantations or other whatsoever, having first paid the severall Excises before menti<g ref="char:EOLhyphen"/>oned. The Commissioners of Excise for the time being, or their deputies unto whom the severall Excises have been paid as aforesaid, being sufficiently satisfyed therein, as aforsaid, shall and may allow and repay the severall Excises aforesaid, except onely the one penny laid upon forain Spirits, made here into per<g ref="char:EOLhyphen"/>fect strong waters. Provided alwayes that all Spirits both forain and domestick, that shal fraudulently be sold by any person or per<g ref="char:EOLhyphen"/>sons to Chapmen or others to retaile in kinde, instead of <hi>Aqua vitae</hi> or Strong wa<g ref="char:EOLhyphen"/>ters before the same bee re-distilled and made into perfect <hi>Aqua vitae,</hi> or Strong waters, shal pay for every Gallon, so sold after the rate of eight pence <hi>per</hi> Gallon Excise.</p>
+            <p>And provided alwayes that no distillers, or
+<pb n="5" facs="tcp:172603:4"/> other dealers in Spirits, <hi>Aqua vitae,</hi> or Strong waters as aforesaid, shall have any benefit of the rates or abatements aforesaid, but onely such as shall cleere the Excise according to the said severall rates, for all Spirits, <hi>Aqua vi<g ref="char:EOLhyphen"/>tae,</hi> and Strong waters, made, bought, or sold respectively since the eleventh of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> 1643. by such testimony as shall satisfie the Commissioners, or their deputies by an accompt under their hands to be brought in within one moneth after the date hereof; But to pay Excise and to bee proceeded against without favour, according as is expressed in the said Ordinance of the eleventh of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> in this behalfe.</p>
+            <closer>
+               <signed>H. Elsynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
